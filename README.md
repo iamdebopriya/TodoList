@@ -1,38 +1,24 @@
-# Todo Fullstack App
+# **Todo Fullstack App**
 
 This is a fullstack **Todo Application** built using:
 
-- Backend: **Node.js + Prisma + Supabase** (Database)
-- Frontend: **Streamlit** (Python)
-
-## Features
-- ✅ Add, Update, Delete Todos.
-- ✅ View Todo List with Checkboxes
-- ✅ Backend with Prisma + Supabase Integration
-- ✅ Modern UI with Streamlit
-
-## Tech Stack
-- **Backend:** Node.js, Prisma ORM, Supabase
+- **Backend:** Node.js + Prisma + Supabase (Database)
 - **Frontend:** Streamlit (Python)
 
-## How to Run
+## **Features**
+- ✅ Add, Update, Delete Todos.
+- ✅ View Todo List with Checkboxes.
+- ✅ Backend with Prisma + Supabase Integration.
+- ✅ Modern UI with Streamlit.
 
-### Backend
-1. `cd prisma_1st`
-2. `npm install`
-3. Set up `.env` with your Supabase URL.
-4. `npx tsc` (compile TypeScript)
-5. `node dist/index.js` (start server)
+## **Tech Stack**
+- **Backend:** Node.js, TypeScript, Express.js, Prisma ORM, Supabase, CORS
+- **Frontend:** Python, Streamlit
+- **Tools:** Nodemon, Prisma CLI, Supabase Studio
 
-### Frontend
-1. `cd streamlit_frontend`
-2. `streamlit run todo.py`
+## **How to Run**
 
-## Deployment
-- **Backend:** Deploy to Render / Railway.
-- **Frontend:** Deploy to Streamlit Community Cloud.
-
----
-
-## License
-MIT
+### **Backend**
+1. **Navigate to the backend folder:**  
+   ```bash
+   cd prisma_1st
