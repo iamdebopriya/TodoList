@@ -6,7 +6,7 @@ This is a fullstack **Todo Application** built using:
 - Frontend: **Streamlit** (Python)
 
 ## Features
-- ✅ Add, Update, Delete Todos
+- ✅ Add, Update, Delete Todos.
 - ✅ View Todo List with Checkboxes
 - ✅ Backend with Prisma + Supabase Integration
 - ✅ Modern UI with Streamlit
