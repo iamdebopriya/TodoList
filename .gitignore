@@ -1,0 +1,9 @@
+# Node (Backend - Prisma)
+node_modules/
+dist/
+.env
+
+# Python (Streamlit Frontend)
+__pycache__/
+*.pyc
+.env
